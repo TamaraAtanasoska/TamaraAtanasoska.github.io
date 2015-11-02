@@ -1,0 +1,55 @@
+# Site Info
+title:              "Blog"
+description:        "A blog for tech, music and politics thoughts."
+google_verify:       # Put your Google Verification here
+google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+
+# Author Info
+author_name:        "Tamara Atanasoska"
+author_email:       atanasoska.tamara@gmail.com
+author_gravatar:    739a26459a211aa4761b8e229118fdc1 # Gravatar md5 hash
+twitter_username:   TAtanasoska
+
+# Site Settings
+baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+permalink:          /notes/:title # Post permalink
+timezone:           Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Site Build
+highlighter:        pygments
+#markdown:           redcarpet
+#redcarpet:
+#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+gems:
+  - jekyll-sitemap
+
+compress_html:
+    clippings:      all
+    ingore:
+        envs:       [ "test" ]
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
