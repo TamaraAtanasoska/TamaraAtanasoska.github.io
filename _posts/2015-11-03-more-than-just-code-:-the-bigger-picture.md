@@ -1,5 +1,5 @@
 ---
-title: More than just code: The bigger picture
+title: "More than just code: The bigger picture"
 updated: 2015-11-04 17:05
 ---
 
