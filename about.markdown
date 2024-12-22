@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Tamara. You can find out more about me on [GitHub](https://github.com/tamaraatanasoska) and [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/).
+Hi! My name is Tamara. I am a software engineer, OSS maintainer and NLP/CompLing researcher. You can find out more about me on [GitHub](https://github.com/tamaraatanasoska) and [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/).
 This blog is for writing related to the technical work I do, as well as related learnings.
 I write on [Substack](https://holophrase.substack.com/) about the intersections of language, technology and society.
 I will not be cross-posting, as both of these spaces are there to hold different thoughts.
