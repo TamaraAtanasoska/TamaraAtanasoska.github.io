@@ -21,7 +21,7 @@ They define **NLP**("a field concerned with developing technology for sophistica
 
 The look into each of these categories in detail. I've made what seems like a 1000 notes, but they are mostly about further reading, as the authors cite several pages of references, which is to be expected from a paper like this. My motivation to read it was to look for the ways that we as computational linguists still provide key value, support some hunches and look for areas I wasn't aware of to dig into. I am really interested in computational sociolinguistics as a subfield, and I was happy to see that they affirm its importance:
 
-***"As the quality of generated output improves, the focus of evaluation may shift increasingly away from linguistic form and toward function, including social meaning. We see great potential for sociolinguistics in creating resources and evaluation measures, studying the use of generated language in different social settings, understanding challenges, and helping develop solutions (Grieve et al., 2024) in all RELIES categories (and beyond)."***
+*"As the quality of generated output improves, the focus of evaluation may shift increasingly away from linguistic form and toward function, including social meaning. We see great potential for sociolinguistics in creating resources and evaluation measures, studying the use of generated language in different social settings, understanding challenges, and helping develop solutions (Grieve et al., 2024) in all RELIES categories (and beyond)."*
 
 Some other things I've learned:
 * The difference between diagnostics and evaluation: diagnostics is a part of evaluation, but instead of aiming to achieve some global benchmark/ranking, it focuses on finding more targeted perspectives for system improvement. The issues like reducing the model's capacity to inflict societal harm, which interest me, seem to fit the diagnostics category according to the paper. One thing I've learned over the years participating in research is that knowing the vocabulary of the field is very important, so good to know :).
@@ -32,7 +32,7 @@ The second paper I read is called ["The Sociolinguistic Foundations of Language 
 
 After a gradual informative intro where they build up to the definition(worth checking out if this isn't fully clicking), they define a variety of language as:
 
-***a population of texts defined by one or more external factors, especially related to the social background of the people who produce these texts, the social context in which these texts are produced, and the period of time over which these texts are produced.***
+*a population of texts defined by one or more external factors, especially related to the social background of the people who produce these texts, the social context in which these texts are produced, and the period of time over which these texts are produced.*
 
 It is crucial to note that in this definition, "text" has a much broader meaning. In this case, text is the language(like discourse and utterances) produced during a communication event, including any modality(speech, writing, signing etc.). In other words, text is what we produce during the time we communicate. 
 
