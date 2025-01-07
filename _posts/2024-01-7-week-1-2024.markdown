@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Week 1, 2024"
+date:   2024-01-07 17:19:17 +0100
+categories: learning
+---
+
+This week was a short one, as the family needed to exit holiday mode, the child to get back into a school groove, and winter blues and colds to be gotten over. 
+However, there was of course a bit of time for learning. 
+
+For a start, I organised my paper backlog and picked what is "urgent" to read. I am focusing on getting overviews of some of the subfields I am interested in, and reading more dense, theoretical papers in full. The number of papers on the extended backlog that I've collected over the last few months is daunting, but not everything has to be read. Every paper adds a few more anyway :). My husband got me my first ever iPad this Christmas(thank you!), so I am really enjoying annotating papers in the Notability app. 
+
+I first read [Natural Language Processing RELIES on Linguistics](https://arxiv.org/abs/2405.05966#:~:text=Large%20Language%20Models%20(LLMs)%20have,capture%20grammar%20or%20semantic%20coherence.). I realised at the very end that I actually know one of the researchers, Juri Optiz, who we had a call with for the ["Validating AMR-based Argument Similarity on Novel Datasets"](https://github.com/TamaraAtanasoska/AMR_ArgumentSimilarity) project. 
+
+They define **NLP**("a field concerned with developing technology for sophisticated computational processing of text") and **computational linguistics**("computation and language" with two definitions: a broad that incudes NLP and a more narrow one that concerns itself with the study of how language works). They go to show all the ways linguistics still impacts, or has crucially impacted NLP, although "it is not the front and center of the way we build NLP systems for practical tasks". They outline 5 areas where this is still the case: 
+1. resources, like carefully annotated lexicons and corpora.
+2. evaluation, like the gold evaluations we all use, the groundwork for the design of effective human evaluations, making sense of automated metrics and signling out the linguistic phenomena that are challenging for the systems to model/process.
+3. low-resource settings.
+4. interpretabiity and explanation, providing us with metalanguage to discuss black box systems like LLMs.
+5. study of language, how language works, understanding phenomena, documenting languages and much more.
+
+The look into each of these categories in detail. I've made what seems like a 1000 notes, but they are mostly about further reading, as the authors cite several pages of references, which is to be expected from a paper like this. My motivation to read it was to look for the ways that we as computational linguists still provide key value, support some hunches and look for areas I wasn't aware of to dig into. I am really interested in computational sociolinguistics as a subfield, and I was happy to see that they affirm its importance:
+
+***"As the quality of generated output improves, the focus of evaluation may shift increasingly away from linguistic form and toward function, including social meaning. We see great potential for sociolinguistics in creating resources and evaluation measures, studying the use of generated language in different social settings, understanding challenges, and helping develop solutions (Grieve et al., 2024) in all RELIES categories (and beyond)."***
+
+Some other things I've learned:
+* The difference between diagnostics and evaluation: diagnostics is a part of evaluation, but instead of aiming to achieve some global benchmark/ranking, it focuses on finding more targeted perspectives for system improvement. The issues like reducing the model's capacity to inflict societal harm, which interest me, seem to fit the diagnostics category according to the paper. One thing I've learned over the years participating in research is that knowing the vocabulary of the field is very important, so good to know :).
+* In the area of interpretability, in order to understand LLMs with billions of parameters so-called "binding methods" are being developed. They learn to relate model internals and processes to specific human-understandable descriptions. This in terms equips us with meta-language to describe and discuss what happens within systems and to interpret their results. They have tons of papers linked about such methods, I am definitely reading some of them.
+* They note some resources around language preservation, which I find one of the most wonderful applications of NLP and I am looking forward to exploring and writing about it on my (Substack) blog.
+
+The second paper I read is called ["The Sociolinguistic Foundations of Language Modeling"](https://arxiv.org/abs/2407.09241). It is a position paper, presenting the opinion of the authors that LLMs are inherently models of "varieties of language". The go on to outline how this perspective impacts the five basic challenges of language modeling: social bias, domain adaptation, alignment, language change and scale. 
+
+After a gradual informative intro where they build up to the definition(worth checking out if this isn't fully clicking), they define a variety of language as:
+
+***a population of texts defined by one or more external factors, especially related to the social background of the people who produce these texts, the social context in which these texts are produced, and the period of time over which these texts are produced.***
+
+It is crucial to note that in this definition, "text" has a much broader meaning. In this case, text is the language(like discourse and utterances) produced during a communication event, including any modality(speech, writing, signing etc.). In other words, text is what we produce during the time we communicate. 
+
+In this view, a corpus that a model is trained on is also a variety of language, but, and this very importantly, it doesn't mean that it is representative of the target variety we are trying to model. This means that when we collect a random, uncatalogued sample of Internet posts, whoever big, we cannot claim that it represents the whole of the English language. 
+
+I love the reframe of LLMs as models of language use, especially if we take into consideration that (as they note) "the values and expectations of society are instantiated in their patterns of language use".
+
+The interventions to improve on all the basic challenges outlined above center around keeping to best practices around corpora documentation and careful, representative sampling(like [stratification](https://en.wikipedia.org/wiki/Stratified_sampling)), and employing "further pretraining".
+
+I am taking some of the suggestions with me as I think about the projects I will be working on this year.
+
+See you next week!
