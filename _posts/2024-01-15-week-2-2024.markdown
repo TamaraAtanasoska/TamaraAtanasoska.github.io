@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 2, 2024: PyLadies talk about custom scikit-learn estimators"
+date:   2024-01-15 17:19:17 +0100
+categories: learning
+---
+
+This week I used up all my time outside work to brainstorm the details of my thesis topic, and work on my Pyladies Berlin talk called "Writing a custom scikit-learn estimator". The event was yesterday evening and it was such a great night! Before me, my colleague Stefanie Senger gave a talk about the metadata routing API in scikit-learn, which is an great feature and worth your time to check it out.
+
+[On this link you can find the video from the night's stream, my talk starts the exactly 1:00h mark :).](https://www.youtube.com/watch?v=9bclnqfyKG4)
+The slides from my presentation you can find [here](https://pitch.com/v/writing-a-custom-scikit-learn-estimator-7te8fd).
+
+Links and resources from the presentation:
+
+* [What we do as OSS team at :probabl.](https://papers.probabl.ai/open-source-priorities-chapter-2)
+* [Documentation about developing a custom estimator](https://scikit-learn.org/stable/developers/develop.html)
+* Link to the [validation module documentation](https://scikit-learn.org/1.5/api/sklearn.utils.html#module-sklearn.utils.validation), and the [source code](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/utils/validation.py) of the module.
+
+
+https://www.youtube.com/watch?v=hp_L6Vsnhpc
