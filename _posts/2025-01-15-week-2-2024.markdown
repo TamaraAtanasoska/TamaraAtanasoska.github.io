@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 2, 2024: PyLadies talk about custom scikit-learn estimators"
-date:   2024-01-15 17:19:17 +0100
+date:   2025-01-15 17:19:17 +0100
 categories: learning
 ---
 
