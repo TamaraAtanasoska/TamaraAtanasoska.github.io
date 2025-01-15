@@ -15,7 +15,7 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/)
 ...
 
 ### Recent talks and podcasts
-- Talking about custom estimators in scikit-learn at the [PyLadies Berlin](https://tamaraatanasoska.github.io/learning/2024/01/015/week-2-2024.html).
+- Talking about custom estimators in scikit-learn at the [PyLadies Berlin](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html).
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
 - [A lightning talk](https://substack.com/home/post/p-149508417?utm_campaign=post&utm_medium=web) at PyData Paris 2024 about LLMs and linguistic uniformity.
 - [PyLadies talk](https://www.youtube.com/watch?v=jvQJHIXPTOc&t=3895s&pp=ygURdGFtYXJhIGF0YW5hc29za2E%3D) about an NLP research project.
