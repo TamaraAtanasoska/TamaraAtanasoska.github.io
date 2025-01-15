@@ -15,6 +15,11 @@ Links and resources from the presentation:
 * [What we do as OSS team at :probabl.](https://papers.probabl.ai/open-source-priorities-chapter-2)
 * [Documentation about developing a custom estimator](https://scikit-learn.org/stable/developers/develop.html)
 * Link to the [validation module documentation](https://scikit-learn.org/1.5/api/sklearn.utils.html#module-sklearn.utils.validation), and the [source code](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/utils/validation.py) of the module.
+* [A video](https://www.youtube.com/watch?v=hp_L6Vsnhpc) covering check_array() and check_X_y() from the validation module.
+* [Source code of the estimator_checks](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/utils/estimator_checks.py).
+* [Documentation and a list](https://scikit-learn.org/1.6/modules/generated/sklearn.utils.Tags.html) of available estimator tags, and [documentation](https://scikit-learn.org/1.6/developers/develop.html#estimator-tags) how to use them.
+* [sklearn-compat](https://github.com/sklearn-compat/sklearn-compat), a library to help you support different versions of scikit-learn. Especially relevant after the scikit-learn 1.6 API changes.
+* Fairlearn's [website](https://fairlearn.org/), and [GitHub repo](https://github.com/fairlearn/fairlearn).
+* [scikit-learn certification](https://certification.probabl.ai/) by :probabl.
 
-
-https://www.youtube.com/watch?v=hp_L6Vsnhpc
+That is all for now, see you next week!

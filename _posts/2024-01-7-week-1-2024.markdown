@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 1, 2024"
+title:  "Week 1, 2024: Language models as language varieties"
 date:   2024-01-07 17:19:17 +0100
 categories: learning
 ---
