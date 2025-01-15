@@ -5,7 +5,7 @@ date:   2025-01-15 16:19:17 +0100
 categories: learning
 ---
 
-This week I used up all my time outside work to brainstorm the details of my thesis topic, and work on my Pyladies Berlin talk called "Writing a custom scikit-learn estimator". The event was yesterday evening and it was such a great night! Before me, my colleague Stefanie Senger gave a talk about the metadata routing API in scikit-learn, which is an great feature and worth your time to check it out.
+This week, I used all my time outside work to brainstorm the details of my thesis topic and work on my Pyladies Berlin talk called “Writing a custom scikit-learn estimator”. The event was yesterday evening, and it was such a great night! Before me, my colleague Stefanie Senger talked about the metadata routing API in scikit-learn, which is a great feature and worth checking out.
 
 [On this link you can find the video from the night's stream, my talk starts the exactly 1:00h mark :).](https://www.youtube.com/watch?v=9bclnqfyKG4)
 The slides from my presentation you can find [here](https://pitch.com/v/writing-a-custom-scikit-learn-estimator-7te8fd).
