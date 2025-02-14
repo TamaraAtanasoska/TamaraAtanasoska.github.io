@@ -15,9 +15,10 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/)
 #### Talks
  - Intro to Fairlearn (March, Berlin, TBA)
  - (April, Paris, TBA)
+ - "Exploring fairlearn and practical strategies for assessing and mitigating harm in AI systems" at [PyCon Italia 2025](https://2025.pycon.it/en) (May, Bologna).
 
 #### Events
- - Fairlearn and scikit-learn PyLadies Berlin mentored contribution sprint: [pre-event](https://www.meetup.com/pyladies-berlin/events/305492587/?eventOrigin=group_upcoming_events) and [sprint](https://www.meetup.com/pyladies-berlin/events/305397520/?eventOrigin=group_upcoming_events).
+ - Fairlearn and scikit-learn PyLadies Berlin [mentored contribution sprint](https://www.meetup.com/pyladies-berlin/events/305397520/?eventOrigin=group_upcoming_events).
 
 
 
