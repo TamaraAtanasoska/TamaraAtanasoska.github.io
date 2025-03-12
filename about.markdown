@@ -11,16 +11,9 @@ I write on [Substack](https://holophrase.substack.com/) about the intersections 
 2025 will be a year of reading and learning, and I will share the papers and books I will go through for my research and to improve my technical skills.
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/) if you want to connect or reach out for anything related to what you see here.
 
-### Upcoming
-#### Talks
- - Intro to Fairlearn (March, Berlin, TBA)
- - (April, Paris, TBA)
+### Upcoming appearances
+ - (10th of April, Paris, TBA)
  - "Exploring fairlearn and practical strategies for assessing and mitigating harm in AI systems" at [PyCon Italia 2025](https://2025.pycon.it/en) (May, Bologna).
-
-#### Events
- - Fairlearn and scikit-learn PyLadies Berlin [mentored contribution sprint](https://www.meetup.com/pyladies-berlin/events/305397520/?eventOrigin=group_upcoming_events).
-
-
 
 ### Recent talks and podcasts
 - [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
