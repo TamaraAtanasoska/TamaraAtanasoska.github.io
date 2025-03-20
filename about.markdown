@@ -12,8 +12,10 @@ I write on [Substack](https://holophrase.substack.com/) about the intersections 
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/) if you want to connect or reach out for anything related to what you see here.
 
 ### Upcoming appearances
- - (10th of April, Paris, TBA)
- - "Exploring fairlearn and practical strategies for assessing and mitigating harm in AI systems" at [PyCon Italia 2025](https://2025.pycon.it/en) (May, Bologna).
+ - A [PyPodcasts](https://pypodcats.live/) upcoming episode
+ - [WiMLDS Paris](https://www.meetup.com/paris-women-in-machine-learning-data-science/events/306792548/?eventOrigin=group_upcoming_events) 10th of (April, Paris).
+ - May, Berlin TBA
+ - [PyCon Italia 2025](https://2025.pycon.it/en) (29th of May, Bologna).
 
 ### Recent talks and podcasts
 - [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
