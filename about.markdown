@@ -13,7 +13,7 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/)
 
 ### Upcoming appearances
  - A [PyPodcasts](https://pypodcats.live/) upcoming episode
- - [WiMLDS Paris](https://www.meetup.com/paris-women-in-machine-learning-data-science/events/306792548/?eventOrigin=group_upcoming_events) 10th of (April, Paris).
+ - [WiMLDS Paris](https://www.meetup.com/paris-women-in-machine-learning-data-science/events/306792548/?eventOrigin=group_upcoming_events) (10th of April, Paris).
  - May, Berlin TBA
  - [PyCon Italia 2025](https://2025.pycon.it/en) (29th of May, Bologna).
 
