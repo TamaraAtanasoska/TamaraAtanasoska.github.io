@@ -13,7 +13,7 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/)
 
 ### Upcoming community engagements
  - A [PyPodcasts](https://pypodcats.live/) upcoming episode
- - May, Berlin TBA
+ - PyData Berlin (May)
  - "Fairlearn: a practical approach to assessing and mitigating harm in AI systems" [EuroPython 2025](https://ep2025.europython.eu/) (July, Prague).
 
 ### Recent talks and podcasts
