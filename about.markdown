@@ -6,17 +6,13 @@ permalink: /about/
 
 Hi! My name is Tamara. I am a software engineer, OSS maintainer and NLP/CompLing researcher. You can find out more about me on [GitHub](https://github.com/tamaraatanasoska) and [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/).
 This blog is for writing related to the technical work I do, as well as related learnings.
-I write on [Substack](https://holophrase.substack.com/) about the intersections of language, technology and society. Some of the topics mentioned here will find an expansion over there.
-
-2025 will be a year of reading and learning, and I will share the papers and books I will go through for my research and to improve my technical skills.
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/) if you want to connect or reach out for anything related to what you see here.
 
 ### Upcoming community engagements
  - A [PyPodcasts](https://pypodcats.live/) upcoming episode
- - PyData Berlin (May)
  - "Fairlearn: a practical approach to assessing and mitigating harm in AI systems" [EuroPython 2025](https://ep2025.europython.eu/) (July, Prague).
 
-### Recent talks and podcasts
+### Recent talks and podcasts (that have a recording):
 - [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
 - [A lightning talk](https://substack.com/home/post/p-149508417?utm_campaign=post&utm_medium=web) at PyData Paris 2024 about LLMs and linguistic uniformity.
