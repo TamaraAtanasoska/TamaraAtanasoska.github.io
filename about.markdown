@@ -9,10 +9,10 @@ This blog is for writing related to the technical work I do, as well as related 
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/) if you want to connect or reach out for anything related to what you see here.
 
 ### Upcoming community engagements
- - A [PyPodcasts](https://pypodcats.live/) upcoming episode
  - "Fairlearn: a practical approach to assessing and mitigating harm in AI systems" [EuroPython 2025](https://ep2025.europython.eu/) (July, Prague).
 
 ### Recent talks and podcasts (that have a recording):
+- A [PyPodcasts](https://www.youtube.com/watch?v=Xo1ooX_915o) episode about FOSS, community and Python
 - [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
 - [A lightning talk](https://substack.com/home/post/p-149508417?utm_campaign=post&utm_medium=web) at PyData Paris 2024 about LLMs and linguistic uniformity.
