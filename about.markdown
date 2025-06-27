@@ -11,7 +11,7 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/)
 ### Upcoming community engagements
  - "Fairlearn: a practical approach to assessing and mitigating harm in AI systems" [EuroPython 2025](https://ep2025.europython.eu/) (July, Prague).
 
-### Recent talks and podcasts (that have a recording):
+### Recent talks and podcasts (with some web trace):
 - A [PyPodcasts](https://www.youtube.com/watch?v=Xo1ooX_915o) episode about FOSS, community and Python
 - [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
