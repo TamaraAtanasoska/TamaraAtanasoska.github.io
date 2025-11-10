@@ -5,14 +5,14 @@ permalink: /about/
 ---
 
 Hi! My name is Tamara. I am a software engineer, OSS maintainer and NLP/CompLing researcher. You can find out more about me on [GitHub](https://github.com/tamaraatanasoska) and [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/).
-This blog is for writing related to the technical work I do, as well as related learnings.
+This website is for writing related to the technical work I do, as well as related learnings.
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/) if you want to connect or reach out for anything related to what you see here.
 
 ### Upcoming community engagements
 /
 
 ### Recent talks and podcasts (with some web trace):
-- [A talk](https://ep2025.europython.eu/session/fairlearn-practical-approach-to-assessing-and-mitigating-harm-in-ai-systems/) about Fairlearn and ML fairness research at [EuroPython 2025](https://ep2025.europython.eu/)
+- [A talk](https://ep2025.europython.eu/session/fairlearn-practical-approach-to-assessing-and-mitigating-harm-in-ai-systems/) about Fairlearn and ML fairness research at [EuroPython 2025](https://ep2025.europython.eu/) ([slides](https://pitch.com/v/short-fairlearn-intro-u25bfc))
 - A [PyPodcasts](https://www.youtube.com/watch?v=Xo1ooX_915o) episode about FOSS, community and Python
 - [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
