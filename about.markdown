@@ -12,12 +12,12 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/)
 /
 
 ### Recent talks and podcasts (with some web trace):
-- [A talk](https://ep2025.europython.eu/session/fairlearn-practical-approach-to-assessing-and-mitigating-harm-in-ai-systems/) about Fairlearn and ML fairness research at [EuroPython 2025](https://ep2025.europython.eu/) ([slides](https://pitch.com/v/short-fairlearn-intro-u25bfc))
-- A [PyPodcasts](https://www.youtube.com/watch?v=Xo1ooX_915o) episode about FOSS, community and Python
+- [A talk](https://ep2025.europython.eu/session/fairlearn-practical-approach-to-assessing-and-mitigating-harm-in-ai-systems/) about Fairlearn and ML fairness research at [EuroPython 2025](https://ep2025.europython.eu/) ([slides](https://pitch.com/v/short-fairlearn-intro-u25bfc)).
+- A [PyPodcasts](https://www.youtube.com/watch?v=Xo1ooX_915o) episode about FOSS, community and Python.
 - [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
 - [A lightning talk](https://substack.com/home/post/p-149508417?utm_campaign=post&utm_medium=web) at PyData Paris 2024 about LLMs and linguistic uniformity.
-- [PyLadies talk](https://www.youtube.com/watch?v=jvQJHIXPTOc&t=3895s&pp=ygURdGFtYXJhIGF0YW5hc29za2E%3D) about an NLP research project.
+- [PyLadies talk](https://www.youtube.com/watch?v=jvQJHIXPTOc&t=3895s&pp=ygURdGFtYXJhIGF0YW5hc29za2E%3D) about an NLP research project ([slides](https://pitch.com/public/70533062-4feb-4a93-9ffb-e0153b6a8734)).
 - Discussing grounded language understanding at the [D4Data podcast](https://www.youtube.com/watch?v=rD21l4GJDhg&t=1s&pp=ygURdGFtYXJhIGF0YW5hc29za2E%3D).
 
 ### Older web presence
