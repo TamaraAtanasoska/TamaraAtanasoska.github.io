@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Tamara. I am a software engineer, OSS maintainer and NLP/CompLing researcher. You can find out more about me on [GitHub](https://github.com/tamaraatanasoska) and [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/).
-This website is for writing related to the technical work I do, as well as related learnings.
+Hi! My name is Tamara. I am a software engineer, OSS maintainer, a researcher and PhdD candidate. You can find out more about me on [GitHub](https://github.com/tamaraatanasoska) and [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/).
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/) if you want to connect or reach out for anything related to what you see here.
+
+I am currently researching as part of the "Digitalisation and opening up science" [group](https://www.weizenbaum-institut.de/en/research/organizing-knowledge/digitalization-and-opening-up-science/) at the Weizenbaum Institute.
 
 ### Upcoming community engagements
 /
