@@ -2,7 +2,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 remote_theme: mmistakes/minimal-mistakes@4.26.2
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "contrast"
 
 locale: "en-US"
 title: "Tamara's GitHub Pages"
@@ -67,5 +67,5 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      share: true
+      share: false
       related: true
