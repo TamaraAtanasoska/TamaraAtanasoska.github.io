@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Language models as language varieties"
 date:   2025-01-07 17:19:17 +0100
 categories: learning

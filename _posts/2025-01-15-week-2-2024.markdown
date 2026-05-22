@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "PyLadies talk about custom scikit-learn estimators"
 date:   2025-01-15 16:19:17 +0100
 categories: learning
