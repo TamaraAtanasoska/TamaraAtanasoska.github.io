@@ -5,9 +5,9 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "contrast"
 
 locale: "en-US"
-title: "Tamara's GitHub Pages"
+title: "Tamara Atanasoska"
 title_separator: "-"
-subtitle: "Research work, learnings and thoughts"
+subtitle: "PhD researcher · software engineer · OSS maintainer"
 name: "Tamara Atanasoska"
 description: "A place to publish research work, learnings and thoughts."
 url: "https://tamaraatanasoska.github.io"
