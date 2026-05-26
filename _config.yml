@@ -40,7 +40,7 @@ include:
 
 permalink: /:categories/:title/
 paginate: 5
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 
 markdown: kramdown
 highlighter: rouge

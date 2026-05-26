@@ -1,31 +1,24 @@
 ---
 layout: single
-title: About
-permalink: /about/
+title: Talks and media
+permalink: /talks/
 ---
 
-Hi! My name is Tamara. I am a software engineer, OSS maintainer, a researcher and PhdD candidate. You can find out more about me on [GitHub](https://github.com/tamaraatanasoska) and [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/).
-Feel free to add me on [LinkedIn](https://www.linkedin.com/in/tamaraatanasoska/) if you want to connect or reach out for anything related to what you see here.
+### Recent talks and podcasts
 
-I am currently researching as part of the "Digitalisation and opening up science" [group](https://www.weizenbaum-institut.de/en/research/organizing-knowledge/digitalization-and-opening-up-science/) at the Weizenbaum Institute.
-
-### Upcoming community engagements
-/
-
-### Recent talks and podcasts (with some web trace):
 - [A talk](https://ep2025.europython.eu/session/fairlearn-practical-approach-to-assessing-and-mitigating-harm-in-ai-systems/) about Fairlearn and ML fairness research at [EuroPython 2025](https://ep2025.europython.eu/) ([slides](https://pitch.com/v/short-fairlearn-intro-u25bfc)).
 - A [PyPodcasts](https://www.youtube.com/watch?v=Xo1ooX_915o) episode about FOSS, community and Python.
-- [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at the PyLadies Berlin.
+- [Talking about scikit-learn custom estimators](https://tamaraatanasoska.github.io/learning/2025/01/15/week-2-2024.html) at PyLadies Berlin.
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
 - [A lightning talk](https://substack.com/home/post/p-149508417?utm_campaign=post&utm_medium=web) at PyData Paris 2024 about LLMs and linguistic uniformity.
 - [PyLadies talk](https://www.youtube.com/watch?v=jvQJHIXPTOc&t=3895s&pp=ygURdGFtYXJhIGF0YW5hc29za2E%3D) about an NLP research project ([slides](https://pitch.com/public/70533062-4feb-4a93-9ffb-e0153b6a8734)).
 - Discussing grounded language understanding at the [D4Data podcast](https://www.youtube.com/watch?v=rD21l4GJDhg&t=1s&pp=ygURdGFtYXJhIGF0YW5hc29za2E%3D).
 
-### Older web presence
+### Older talks and media
+
 - [A talk at Python Pizza Night 2019](https://night.berlin.python.pizza/), "Multimethods (Multiple Dispatch) in Python".
 - [A keynote at PGConf 2015](https://www.postgresql.eu/events/pgconfeu2015/sessions/session/939-the-bigger-picture-more-then-just-code/) about fostering thriving open source communities.
 - [Making comics](https://wiki.gnome.org/Outreachy(2f)URLsToMigrate.html) for (to be) [Outreachy](https://www.outreachy.org/).
 - ["Decaying Free Software Communities vs. Emerging Hackerspaces"](https://igorstama.github.io/presentations/share2/dzslides/template.html#1.0) at SHARE 2, 2012.
 - [Google Open Source Blog: Macedonia Google Summer of Code meetups are a success](https://opensource.googleblog.com/2012/05/macedonia-google-summer-of-code-meetups.html).
-- [A talk](https://www.youtube.com/watch?v=YOjPsVpDzws) with Marina Zhurakhinskaya at the "Linux Wee 2012" about "Promotion of Free Software in a local Community and importance of its educational use".
-
+- [A talk](https://www.youtube.com/watch?v=YOjPsVpDzws) with Marina Zhurakhinskaya at "Linux Wee 2012" about promotion of free software in a local community and the importance of its educational use.
