@@ -1,5 +1,5 @@
 ---
-title:  "AI usage along the scientific process: papers read this week"
+title:  ""
 date:   2026-05-21 12:00:00 +0200
 categories: learning
 published: false
@@ -20,3 +20,10 @@ Gautam, S., Liu, H., Choi, Y., & Lease, M. (2026). How Researchers Navigate Acco
 
 Traberg, C. S., Roozenbeek, J., & Van Der Linden, S. (2026). AI is turning research into a scientific monoculture. Communications Psychology, 4(1), 37. https://doi.org/10.1038/s44271-026-00428-5
 
+Generative Frictions: A Conversation on AI with Lucy Suchman and Terry Winograd: https://youtu.be/jz92FzdVUDE?si=-h4kmIC7sXvYzR7W
+
+Paper: https://youtu.be/bOj-au2u5D0?si=mRXqrknkwPt7CiSo
+
+This week:
+
+Suchman, L. (2023). The uncontroversial ‘thingness’ of AI. Big Data & Society, 10(2), 20539517231206794. https://doi.org/10.1177/20539517231206794
