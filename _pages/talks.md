@@ -23,5 +23,6 @@ permalink: /talks/
 
 ### Media
 
+- Media echos of a published NLP review for Macedonian ([link](https://frontline.mk/2022/10/23/komp-uterskata-lingvistka-tamara-atanasoska-gi-zapoznava-strancite-so-makedonskiot-azik/)).
 - [Making comics](https://wiki.gnome.org/Outreachy(2f)URLsToMigrate.html) for (to be) [Outreachy](https://www.outreachy.org/).
 - [Google Open Source Blog: Macedonia Google Summer of Code meetups are a success](https://opensource.googleblog.com/2012/05/macedonia-google-summer-of-code-meetups.html).
