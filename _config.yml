@@ -16,7 +16,8 @@ repository: "TamaraAtanasoska/TamaraAtanasoska.github.io"
 
 author:
   name: "Tamara Atanasoska"
-  bio: "Software engineer, OSS maintainer, researcher and PhD candidate."
+  avatar: "/assets/images/1588433.png"
+  bio: "PhD researcher · software engineer · OSS maintainer"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
