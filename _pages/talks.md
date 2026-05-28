@@ -21,8 +21,8 @@ permalink: /talks/
 - Discussing [fairlearn](https://fairlearn.org/) and sociotechnical systems at the [DataTalksClub podcast](https://www.youtube.com/live/sXU9vMDBjmk?si=dIgBjcCsEMFZ5PqI).
 - Discussing grounded language understanding at the [D4Data podcast](https://www.youtube.com/watch?v=rD21l4GJDhg&t=1s&pp=ygURdGFtYXJhIGF0YW5hc29za2E%3D).
 
-### Media
+### Media and other engagement
 
 - Media echos of a published NLP review for Macedonian ([link](https://frontline.mk/2022/10/23/komp-uterskata-lingvistka-tamara-atanasoska-gi-zapoznava-strancite-so-makedonskiot-azik/)).
-- [Making comics](https://wiki.gnome.org/Outreachy(2f)URLsToMigrate.html) for (to be) [Outreachy](https://www.outreachy.org/).
+- [Making comics](https://wiki.gnome.org/Outreachy(2f)URLsToMigrate.html) for (at the time to be) [Outreachy](https://www.outreachy.org/).
 - [Google Open Source Blog: Macedonia Google Summer of Code meetups are a success](https://opensource.googleblog.com/2012/05/macedonia-google-summer-of-code-meetups.html).
