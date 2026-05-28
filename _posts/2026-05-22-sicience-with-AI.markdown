@@ -2,7 +2,7 @@
 title:  ""
 date:   2026-05-21 12:00:00 +0200
 categories: learning
-published: false
+published: true
 ---
 
 When I had the Holophrase website, I used to write articles that published all of my reports and term papers from my Master's degree. On GitHub, I've OSSed everything that could find a home there too, and it won't be considered sharing homework by the academic staff. Last year, I wanted to start and publish the reading I did for my thesis. I gave that a go, but my thesis work was interrupted a few times over longer periods and it was difficult to keep up. I read so much though, mostly social psychology which is one of my favourite topics. Do not ask me about it if you meet me for your own good (or do? but consequences). 
